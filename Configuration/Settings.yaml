@@ -1,0 +1,9 @@
+Neos:
+  Neos:
+    Ui:
+      frontendConfiguration:
+        'Comvation.Neos:PasteFromOffice': true
+
+    fusion:
+      autoInclude:
+        Comvation.Neos.PasteFromOffice: true

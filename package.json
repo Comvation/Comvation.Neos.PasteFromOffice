@@ -1,0 +1,17 @@
+{
+    "description": "Comvation.Neos:PasteFromOffice",
+    "license": "GPL-3.0-or-later",
+    "version": "1.0.0",
+    "private": true,
+    "engines": {
+        "node": ">=16"
+    },
+    "scripts": {
+        "build": "yarn workspace pastefromoffice run build",
+        "watch": "yarn workspace pastefromoffice run watch"
+    },
+    "workspaces": [
+        "Resources/Private/Scripts/*"
+    ],
+    "packageManager": "yarn@3.4.1"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "comvation/neos-pastefromoffice",
+    "description": "A helper package to install the PasteFromOffice Plugin in neos ckeditor5",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Sören Rossmann"
+        }
+    ],
+    "require": {
+        "neos/neos": "^8.0 || dev-master",
+        "neos/neos-ui": "^8.0 || dev-master"
+    },
+    "extra": {
+        "neos": {
+            "package-key": "Comvation.Neos.PasteFromOffice"
+        }
+    }
+}

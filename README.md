@@ -1,6 +1,6 @@
 # Comvation.Neos.PasteFromOffice
 
-<Work in Progress>
+!!Work in Progress!!
 
 The idea is to create a little helper repo that allows installation of the PasteFromOffice ckeditor Plugin to be used in Neos Projects.
 
